@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "706870024109",
+    "firebase_url": "https://aplikasipemesananreparasi.firebaseio.com",
+    "project_id": "aplikasipemesananreparasi",
+    "storage_bucket": "aplikasipemesananreparasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706870024109:android:7669eab2614c3681",
+        "android_client_info": {
+          "package_name": "com.fish.isyania.aplikasipemesananreparasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706870024109-od3n77ulioftetj63abul3u1u7r3unc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fish.isyania.aplikasipemesananreparasi",
+            "certificate_hash": "d14caf83888b194456e28c7a28156b9d6c86e3b4"
+          }
+        },
+        {
+          "client_id": "706870024109-oqrrfpcttgml404f5v9828j74r7b93gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCERHr_C1Pq3v-0jrW98kKOqr2_fb2_zvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706870024109-oqrrfpcttgml404f5v9828j74r7b93gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
